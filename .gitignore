@@ -1,0 +1,61 @@
+# Node modules
+/node_modules/
+
+# Metro bundler cache
+/metro-cache/
+/tmp/
+
+# Logs
+*.log
+
+# Build output
+/android/app/build/
+/ios/build/
+/ios/Pods/
+/ios/Podfile.lock
+
+# Xcode
+xcuserdata/
+/*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+
+# Build output
+/target/
+/out/
+
+# IDE files
+/.idea/
+/*.iml
+/.classpath
+/.project
+
+# Maven / Gradle
+/.mvn/
+/build/
+/.gradle/
+
+# Logs
+*.log
+
+# OS Dateien
+.DS_Store
+Thumbs.db
+
+# Eclipse / NetBeans
+/.settings/
+/nbproject/
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
